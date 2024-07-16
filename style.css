@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.box{
+    width: 800px;
+    text-align: center;
+    background-color: bisque;
+    color: blueviolet;
+    border-radius: 20px;
+    margin: 200px auto;
+}
+
+.title{
+    padding: 15px;
+}
+
